@@ -1,0 +1,10 @@
+D:\Projects\Program3\BookCase\bin\Debug\netcoreapp3.1\BookCase.exe
+D:\Projects\Program3\BookCase\bin\Debug\netcoreapp3.1\BookCase.deps.json
+D:\Projects\Program3\BookCase\bin\Debug\netcoreapp3.1\BookCase.runtimeconfig.json
+D:\Projects\Program3\BookCase\bin\Debug\netcoreapp3.1\BookCase.runtimeconfig.dev.json
+D:\Projects\Program3\BookCase\bin\Debug\netcoreapp3.1\BookCase.dll
+D:\Projects\Program3\BookCase\bin\Debug\netcoreapp3.1\BookCase.pdb
+D:\Projects\Program3\BookCase\obj\Debug\netcoreapp3.1\BookCase.AssemblyInfoInputs.cache
+D:\Projects\Program3\BookCase\obj\Debug\netcoreapp3.1\BookCase.AssemblyInfo.cs
+D:\Projects\Program3\BookCase\obj\Debug\netcoreapp3.1\BookCase.dll
+D:\Projects\Program3\BookCase\obj\Debug\netcoreapp3.1\BookCase.pdb
